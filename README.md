@@ -4,6 +4,9 @@
 
 #### Entusiasta e curioso sobre a tecnologia e suas aplicabilidades.
 
+[Portfólio](https://rafaelnonato79.github.io/portfolio-rafael/)
+
+
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/rafael-silva-063656134/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/rafaelnonato79)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelnonato79&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
