@@ -7,11 +7,11 @@
 [Portfólio](https://rafaelnonato79.github.io/portfolio-rafael/)
 
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/rafael-silva-063656134/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/rafaelnonato79)
+<!--[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/rafael-silva-063656134/) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/rafaelnonato79) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelnonato79&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelnonato79&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnonato79&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)
+<!--![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnonato79&layout=compact&size_weight=0.6&count_weight=0.6&theme=dark)-->
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
